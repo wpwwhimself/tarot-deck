@@ -1,4 +1,4 @@
-![Tarot Deck Thumbnail](reklama.jpg)
+![http://wpww.pl/tarot/](reklama.jpg)
 
 In here you can find all the assets I created in order to design my very own tarot deck.
 
